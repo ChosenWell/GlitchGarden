@@ -1,0 +1,575 @@
+fileFormatVersion: 2
+guid: b97246bb436abf7498b22cf3092326e4
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CuteFrog_0
+    21300002: CuteFrog_1
+    21300004: CuteFrog_2
+    21300006: CuteFrog_3
+    21300008: CuteFrog_4
+    21300010: CuteFrog_5
+    21300012: CuteFrog_6
+    21300014: CuteFrog_7
+    21300016: CuteFrog_8
+    21300018: CuteFrog_9
+    21300020: CuteFrog_10
+    21300022: CuteFrog_11
+    21300024: CuteFrog_12
+    21300026: CuteFrog_13
+    21300028: CuteFrog_14
+    21300030: CuteFrog_15
+    21300032: CuteFrog_16
+    21300034: CuteFrog_17
+    21300036: CuteFrog_18
+    21300038: CuteFrog_19
+    21300040: CuteFrog_20
+    21300042: CuteFrog_21
+    21300044: CuteFrog_22
+    21300046: CuteFrog_23
+    21300048: CuteFrog_24
+    21300050: CuteFrog_25
+    21300052: CuteFrog_26
+    21300054: CuteFrog_27
+    21300056: CuteFrog_28
+    21300058: CuteFrog_29
+    21300060: CuteFrog_30
+    21300062: CuteFrog_31
+    21300064: CuteFrog_32
+    21300066: CuteFrog_33
+    21300068: CuteFrog_34
+    21300070: CuteFrog_35
+    21300072: CuteFrog_36
+    21300074: CuteFrog_37
+    21300076: CuteFrog_38
+    21300078: CuteFrog_39
+    21300080: CuteFrog_40
+    21300082: CuteFrog_41
+    21300084: CuteFrog_42
+    21300086: CuteFrog_43
+    21300088: CuteFrog_44
+    21300090: CuteFrog_45
+    21300092: CuteFrog_46
+    21300094: CuteFrog_47
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 133.332993
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CuteFrog_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 470
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 470
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 470
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_3
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 470
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_4
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 470
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_5
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 470
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_6
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 470
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_7
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 470
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 376
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_9
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 376
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_10
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 376
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_11
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 376
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_12
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 376
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_13
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 376
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_14
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 376
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_15
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 376
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_17
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 282
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_18
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 282
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_19
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 282
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_20
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 282
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_21
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 282
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_22
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 282
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_23
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 282
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_25
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 188
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_26
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 188
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_27
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 188
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_28
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 188
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_29
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 188
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_30
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 188
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_31
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 188
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_33
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 94
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_34
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 94
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_35
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 94
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_36
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 94
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_37
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 94
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_38
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 94
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_39
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 94
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_41
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_42
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_43
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_44
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_45
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_46
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CuteFrog_47
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 0
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

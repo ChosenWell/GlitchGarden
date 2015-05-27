@@ -1,0 +1,178 @@
+Initialize engine version: 4.6.3f1 (4753d8b6ef2b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 980 (ID=0x13c0)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Game Design\Udemy Unity Course\GlitchGarden\GlitchGardenV0.1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Game Design\Udemy Unity Course\GlitchGarden\GlitchGardenV0.1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Game Design\Udemy Unity Course\GlitchGarden\GlitchGardenV0.1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Game Design\Udemy Unity Course\GlitchGarden\GlitchGardenV0.1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Game Design\Udemy Unity Course\GlitchGarden\GlitchGardenV0.1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Game Design\Udemy Unity Course\GlitchGarden\GlitchGardenV0.1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.056 seconds
+desktop: 1920x1080 144Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: D:\Game Design\Udemy Unity Course\GlitchGarden\GlitchGardenV0.1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Game Design\Udemy Unity Course\GlitchGarden\GlitchGardenV0.1_Data\Managed\System.dll (this message is harmless)
+Don't Destroy on LoadPersistentMusicManager (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 4.989212 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 169.
+Total: 0.936213 ms (FindLiveObjects: 0.022796 ms CreateObjectMapping: 0.009989 ms MarkObjects: 0.183912 ms  DeleteObjects: 0.136013 ms)
+
+Playing Clip: Spooky_Groddle_1291879214 (UnityEngine.AudioClip)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+New Level load: 02 Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 1.327861 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 154.
+Total: 0.780989 ms (FindLiveObjects: 0.009733 ms CreateObjectMapping: 0.009477 ms MarkObjects: 0.220029 ms  DeleteObjects: 0.010758 ms)
+
+Playing Clip: moon_music_1344997839 (UnityEngine.AudioClip)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+New Level load: 02 Level_02
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.718745 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 152.
+Total: 1.367051 ms (FindLiveObjects: 0.019467 ms CreateObjectMapping: 0.018698 ms MarkObjects: 0.313778 ms  DeleteObjects: 0.017161 ms)
+
+Playing Clip: moon_music_1344997839 (UnityEngine.AudioClip)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+New Level load: 02 Level_03
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.616287 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 152.
+Total: 0.904963 ms (FindLiveObjects: 0.013831 ms CreateObjectMapping: 0.012295 ms MarkObjects: 0.221310 ms  DeleteObjects: 0.004354 ms)
+
+Playing Clip: moon_music_1344997839 (UnityEngine.AudioClip)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+New Level load: 03a Win
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.328635 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 154.
+Total: 0.591697 ms (FindLiveObjects: 0.008452 ms CreateObjectMapping: 0.007940 ms MarkObjects: 0.163165 ms  DeleteObjects: 0.003073 ms)
+
+Playing Clip: Spooky_Groddle_1291879214 (UnityEngine.AudioClip)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+New Level load: 1a Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.316084 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 169.
+Total: 0.563265 ms (FindLiveObjects: 0.008708 ms CreateObjectMapping: 0.007940 ms MarkObjects: 0.165470 ms  DeleteObjects: 0.006147 ms)
+
+Playing Clip: Spooky_Groddle_1291879214 (UnityEngine.AudioClip)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+New Level load: 02 Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.434935 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 154.
+Total: 0.576328 ms (FindLiveObjects: 0.007684 ms CreateObjectMapping: 0.008196 ms MarkObjects: 0.154968 ms  DeleteObjects: 0.007684 ms)
+
+Playing Clip: moon_music_1344997839 (UnityEngine.AudioClip)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+New Level load: 02 Level_02
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.623971 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 152.
+Total: 0.899584 ms (FindLiveObjects: 0.013319 ms CreateObjectMapping: 0.012295 ms MarkObjects: 0.222334 ms  DeleteObjects: 0.011526 ms)
+
+Playing Clip: moon_music_1344997839 (UnityEngine.AudioClip)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+New Level load: 02 Level_03
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.602455 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 152.
+Total: 0.874226 ms (FindLiveObjects: 0.011526 ms CreateObjectMapping: 0.012807 ms MarkObjects: 0.217724 ms  DeleteObjects: 0.004610 ms)
+
+Playing Clip: moon_music_1344997839 (UnityEngine.AudioClip)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+New Level load: 03a Win
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.424177 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 154.
+Total: 0.835036 ms (FindLiveObjects: 0.011782 ms CreateObjectMapping: 0.011526 ms MarkObjects: 0.200818 ms  DeleteObjects: 0.004610 ms)
+
+Playing Clip: Spooky_Groddle_1291879214 (UnityEngine.AudioClip)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+New Level load: 1a Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.837853 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 169.
+Total: 1.890357 ms (FindLiveObjects: 0.022540 ms CreateObjectMapping: 0.024590 ms MarkObjects: 0.577097 ms  DeleteObjects: 0.022028 ms)
+
+Playing Clip: Spooky_Groddle_1291879214 (UnityEngine.AudioClip)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Quit Requested
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
